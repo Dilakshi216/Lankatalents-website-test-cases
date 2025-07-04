@@ -22,8 +22,7 @@ As part of my QA learning and practice, I manually tested the following modules:
 
 ## 📁 Files
 
-- [](https://nsbm365-my.sharepoint.com/:x:/g/personal/kldanuradha_students_nsbm_ac_lk/Ea2m77HFiyJBidvAzx01q-cBK_YzmKD5qCmihz3TGhcAiA?e=KVlQ68) – Contains all test cases written in Excel format
-
+- [View Test Cases on OneDrive](https://nsbm365-my.sharepoint.com/:x:/g/personal/kldanuradha_students_nsbm_ac_lk/Ea2m77HFiyJBidvAzx01q-cBK_YzmKD5qCmihz3TGhcAiA?e=KVlQ68) – Excel file Contains all 13 test cases 
 ---
 
 ## ✅ Test Case Structure
