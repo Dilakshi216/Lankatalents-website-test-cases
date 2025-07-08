@@ -1,12 +1,32 @@
 # 🧪 Manual QA Test Cases – LankaTalents.lk
 
-This project contains manual test cases written for key modules of the [LankaTalents.lk](https://www.lankatalents.lk) website.
+This project contains manual test cases and bug reports for key modules of the LankaTalents.lk website.
 
----
+# 📄 Project Overview
+As part of my QA learning and practice, I manually tested core modules of the LankaTalents.lk website and identified usability and functional issues. I also created detailed bug reports and retest cases for validation after fixes.
 
-## 📄 Project Overview
+🧷 Modules Tested
 
-As part of my QA learning and practice, I manually tested the following modules:
+📝 Registration	
+🔐 Google Login	
+✍️ Writing Services	
+💼 Employer Packages	
+📱 Mobile Responsiveness
+
+🐞 Bug Reports
+Identified 5 bugs during testing and documented them with severity, steps to reproduce, and screenshots. Created corresponding test cases to retest after fixes.
+
+Each bug report includes:
+-Bug ID
+-Title
+-Severity/Priority (with justification)
+-Affected URL
+-Steps to Reproduce
+-Actual vs Expected Result
+-Attachments/Screenshots
+-Retest Status
+
+🧷 Test Cases
 
 | Module                   | No. of Test Cases |
 |---------------------     |-------------------|
@@ -44,5 +64,3 @@ Each test case includes:
 ## 👩‍💻 Author
 
 **Dilakshi Anuradha**  
-
-
